@@ -1,0 +1,28 @@
+*{
+    background-color: aqua;
+}
+*img{
+    height: 200px;
+    width: 200px;
+}
+.color-title {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+#red {
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green {
+    color: green;
+}
+#orange {
+    color: orange;
+}
+#yellow {
+    color: yellow;
+}
